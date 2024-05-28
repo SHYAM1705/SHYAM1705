@@ -1,4 +1,7 @@
 <h1 align="center">Hi there👋, I'm Shyam Saad</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">A passionate frontend developer from India. Expertise in HTML,CSS,JAVASCRIPT and React.js ..</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHYAM1705/Portfolio_Shyam](https://github.com/SHYAM1705/Portfolio_Shyam)
